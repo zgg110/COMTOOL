@@ -1,0 +1,10 @@
+G:\test\COMTool\WindowsCOMselfApp\WindowsCOMselfApp\bin\Debug\WindowsCOMselfApp.exe.config
+G:\test\COMTool\WindowsCOMselfApp\WindowsCOMselfApp\bin\Debug\WindowsCOMselfApp.exe
+G:\test\COMTool\WindowsCOMselfApp\WindowsCOMselfApp\bin\Debug\WindowsCOMselfApp.pdb
+G:\test\COMTool\WindowsCOMselfApp\WindowsCOMselfApp\obj\Debug\WindowsCOMselfApp.Form1.resources
+G:\test\COMTool\WindowsCOMselfApp\WindowsCOMselfApp\obj\Debug\WindowsCOMselfApp.Properties.Resources.resources
+G:\test\COMTool\WindowsCOMselfApp\WindowsCOMselfApp\obj\Debug\WindowsCOMselfApp.csproj.GenerateResource.cache
+G:\test\COMTool\WindowsCOMselfApp\WindowsCOMselfApp\obj\Debug\WindowsCOMselfApp.csproj.CoreCompileInputs.cache
+G:\test\COMTool\WindowsCOMselfApp\WindowsCOMselfApp\obj\Debug\WindowsCOMselfApp.exe
+G:\test\COMTool\WindowsCOMselfApp\WindowsCOMselfApp\obj\Debug\WindowsCOMselfApp.pdb
+G:\test\COMTool\WindowsCOMselfApp\WindowsCOMselfApp\obj\Debug\WindowsCOMselfApp.csproj.AssemblyReference.cache
