@@ -37,7 +37,7 @@ namespace WindowsCOMselfApp
         protected override void WndProc(ref Message m)
         {
             if (m.Msg == 0x0219)
-            {//设备改变
+            { //设备改变
                 if (m.WParam.ToInt32() == 0x8004)
                 {//usb串口拔出
                     string[] ports = System.IO.Ports.SerialPort.GetPortNames();//重新获取串口
